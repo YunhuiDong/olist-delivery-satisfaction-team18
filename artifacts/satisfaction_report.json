@@ -1,0 +1,22 @@
+{
+  "use_delay":true,
+  "features":[
+    "order_to_approve_days",
+    "approve_to_carrier_days",
+    "carrier_to_customer_days",
+    "seller_buyer_distance_km",
+    "n_items",
+    "n_sellers",
+    "price_sum",
+    "freight_sum",
+    "total_paid",
+    "n_payments",
+    "seller_on_time_rate",
+    "delay_days",
+    "main_pay_type",
+    "customer_state"
+  ],
+  "pr_auc_logreg":0.8766234403,
+  "roc_auc_logreg":0.6415605964,
+  "best_threshold":0.2248353589
+}
